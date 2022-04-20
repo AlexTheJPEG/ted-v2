@@ -1,0 +1,30 @@
+site_name: ted-v2
+repo_url: https://github.com/AlexTheJPEG/ted-v2
+site_url: https://AlexTheJPEG.github.io/ted-v2
+site_description: Just another Discord bot written in Python...v2!
+site_author: Alex The JPEG
+
+nav:
+  - Home: index.md
+  - Modules: modules.md
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+            setup_commands:
+                - import sys
+                - sys.path.append('../')
+copyright: Maintained by Alex The JPEG.
+theme:
+  name: material
+  feature:
+    tabs: true
+  palette:
+    primary: white
+    accent: blue
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
