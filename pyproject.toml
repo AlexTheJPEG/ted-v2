@@ -11,7 +11,10 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.7,<4.0"
+python = ">=3.8,<3.11"
+hikari = {extras = ["speedups"], version = "^2.0.0-dev.108"}
+uvloop = "^0.16.0"
+hikari-lightbulb = "^2.2.1"
 
 
 [tool.poetry.dev-dependencies]

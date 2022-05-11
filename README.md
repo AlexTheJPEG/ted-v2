@@ -1,21 +1,19 @@
-# cookiecutter-poetry-example
+# Ted v2 
 
-[![Release](https://img.shields.io/github/v/release/fpgmaas/cookiecutter-poetry-example)](https://img.shields.io/github/v/release/fpgmaas/cookiecutter-poetry-example)
-[![Build status](https://img.shields.io/github/workflow/status/fpgmaas/cookiecutter-poetry-example/merge-to-main)](https://img.shields.io/github/workflow/status/fpgmaas/cookiecutter-poetry-example/merge-to-main)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/fpgmaas/cookiecutter-poetry-example)](https://img.shields.io/github/commit-activity/m/fpgmaas/cookiecutter-poetry-example)
-[![Docs](https://img.shields.io/badge/docs-gh--pages-blue)](https://fpgmaas.github.io/cookiecutter-poetry-example/)
+[![Release](https://img.shields.io/github/v/release/alexthejpeg/ted-v2)](https://img.shields.io/github/v/release/alexthejpeg/ted-v2)
+[![Build status](https://img.shields.io/github/workflow/status/alexthejpeg/ted-v2/merge-to-main)](https://img.shields.io/github/workflow/status/alexthejpeg/ted-v2/merge-to-main)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/alexthejpeg/ted-v2)](https://img.shields.io/github/commit-activity/m/alexthejpeg/ted-v2)
+[![Docs](https://img.shields.io/badge/docs-gh--pages-blue)]()
 [![Code style with black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Imports with isort](https://img.shields.io/badge/%20imports-isort-%231674b1)](https://pycqa.github.io/isort/)
-[![License](https://img.shields.io/github/license/fpgmaas/cookiecutter-poetry-example)](https://img.shields.io/github/license/fpgmaas/cookiecutter-poetry-example)
+[![License](https://img.shields.io/github/license/alexthejpeg/ted-v2)](https://img.shields.io/github/license/alexthejpeg/ted-v2)
 
 Just another Discord bot written in Python...v2!
 
-- **Github repository**: <https://github.com/fpgmaas/cookiecutter-poetry-example/>
-- **Documentation** <https://fpgmaas.github.io/cookiecutter-poetry-example/>
+## Quickstart
 
-## Releasing a new version
-
-
+## More information
+- **Documentation** <>
 
 ---
 
